@@ -733,5 +733,47 @@ MIDIBARD只會演奏被選中的音軌
     </data>
     <data name="setting_label_empty" xml:space="preserve">
         <value>空</value>
-</data>
+    </data>
+    <data name="default_playlist_folder" xml:space="preserve">
+        <value>預設播放清單資料夾</value>
+    </data>
+    <data name="icon button tooltip clear highlighted songs" xml:space="preserve">
+        <value>清除標示的歌曲</value>
+    </data>
+    <data name="menu label close" xml:space="preserve">
+        <value>關閉</value>
+    </data>
+    <data name="menu label copy song name" xml:space="preserve">
+        <value>複製歌曲名稱</value>
+    </data>
+    <data name="menu label move song to bottom" xml:space="preserve">
+        <value>↓ 將歌曲移至最下方</value>
+    </data>
+    <data name="menu label move song to position" xml:space="preserve">
+        <value>將歌曲移至指定位置</value>
+    </data>
+    <data name="menu label move song to top" xml:space="preserve">
+        <value>↑ 將歌曲移至最上方</value>
+    </data>
+    <data name="menu label remove song from playlist" xml:space="preserve">
+        <value>從播放清單移除歌曲</value>
+    </data>
+    <data name="menu label send song name to chat" xml:space="preserve">
+        <value>將歌曲名稱傳送至聊天頻道</value>
+    </data>
+    <data name="menu label toggle song played status" xml:space="preserve">
+        <value>切換歌曲的已播放狀態</value>
+    </data>
+    <data name="no matching songs try change the search filters" xml:space="preserve">
+        <value>找不到符合的歌曲，請嘗試調整搜尋篩選條件。</value>
+    </data>
+    <data name="setting tooltip auto close when performing" xml:space="preserve">
+        <value>結束樂器演奏時自動關閉 MidiBard</value>
+    </data>
+    <data name="setting_label_default_playlist" xml:space="preserve">
+        <value>預設播放清單</value>
+    </data>
+    <data name="text song name copied to clipboard" xml:space="preserve">
+        <value>已將歌曲名稱複製到剪貼簿</value>
+    </data>
 </root>
