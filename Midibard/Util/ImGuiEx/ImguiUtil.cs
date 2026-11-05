@@ -492,7 +492,5 @@ public static class ImGuiUtil
         return ImGui.DragFloat($"##{label}", ref value, vSpeed, vMin, vMax, format, flags);
     }
 
-    [DllImport("cimgui", CallingConvention = CallingConvention.Cdecl)]
-
-    public static extern unsafe void igClearActiveID();
+    public static void igClearActiveID() => Dalamud.Bindings.ImGui.ImGuiP.ClearActiveID();
 }
